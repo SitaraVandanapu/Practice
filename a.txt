@@ -1,0 +1,5 @@
+hello this is to replace the existing file
+
+::wq!
+
+hi this is to append the existong data
